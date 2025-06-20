@@ -631,7 +631,7 @@ struct GlobalPlayerBDEntry
 	SCR_INT                       HeistCutSelectionStage; // the only valid values seem to be 6 and 7
 	SCR_BOOL                      IsBadsport;
 	SCR_FLOAT                     MentalState;
-	SCR_BOOL                      IsRockstarDev; // dev dlc check and not the CNetGamePlayer flag so can be used to detect YimMenu
+	SCR_BOOL                      IsRockstarDev; // dev dlc check and not the CNetGamePlayer flag so can be used to detect WaifuMenu
 	SCR_BOOL                      ScreenFadedOut;
 	SCR_BOOL                      TimeTrialActive;
 	YACHT_DATA                    YachtData;
